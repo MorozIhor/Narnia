@@ -13,7 +13,7 @@ public class MainList {
 		list.add(car);
 		list.add(new Car("niva", 2004, false));
 		list.add(new Car("BMV", 1999, true));
-		list.add(new Car("BMV", 1999, true)); //can contain duplicate elements.
+		list.add(new Car("BMV", 1999, true)); 
 		
 		System.out.println("Size of collection: " + list.size());
 		

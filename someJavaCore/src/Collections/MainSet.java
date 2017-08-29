@@ -23,10 +23,10 @@ public class MainSet {
 		}
 		
 		
-//		System.out.println(set);
-//		System.out.println("!!!!!!!!!!!!!");
-//		set.remove(new Car("niva", 2004, false));
-//		System.out.println(set);
+		System.out.println(set);
+		System.out.println("!!!!!!!!!!!!!");
+		set.remove(new Car("niva", 2004, false));
+		System.out.println(set);
 			
 	}
 
